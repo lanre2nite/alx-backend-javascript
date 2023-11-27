@@ -1,0 +1,5 @@
+###This is a README.md file
+ALX SE PROGRAM
+DATE: 27112023
+COHORT: 12
+TOPIC: JS
